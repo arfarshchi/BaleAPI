@@ -1,6 +1,6 @@
 <?php
 /**
- * Bale.ai Bot V1 Class .
+ * Bale.ai Bot V6 Class .
  *
  * @farshchi Amirreza Farshchi <arfiran@gmail.com>
  * first editation: 2023/10/20
